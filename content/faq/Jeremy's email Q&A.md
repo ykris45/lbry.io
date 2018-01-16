@@ -27,3 +27,4 @@ A. The current software makes some analytics calls that are discarded after seve
 Q. In whose legal jurisdiction are your servers located?
 
 A. The point of the LBRY protocol is that our servers are not required for it to operate. Though given the youthful state of the network, we do choose to operate some to ensure good performance, and they're located in the US.
+
